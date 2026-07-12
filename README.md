@@ -75,7 +75,7 @@ Uploaded PDFs are processed into text chunks, embedded using Google Generative A
 ## 📂 Project Structure
 
 ```
-ChatWithMultiplePDFS-main/
+ChatWithMultiplePDFS/
 ├── app.py              # Main Streamlit app: PDF processing, FAISS indexing, QA chain
 ├── requirements.txt    # Python library dependencies
 ├── README.md           # Project documentation
